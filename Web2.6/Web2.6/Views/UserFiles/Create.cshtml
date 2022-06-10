@@ -1,0 +1,31 @@
+﻿@model Web2._6.Models.UserFile
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>UserFile</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddFile" 
+            asp-controller="Mockups" 
+            method="post" 
+            enctype="multipart/form-data">
+            <input type="file" name="uploadedFile" />
+            <br>
+            <input type="submit" value="Загрузить" />
+            <input id="inputAmount" type="hidden" value="@ViewBag.ReplyId" name="replyId">
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

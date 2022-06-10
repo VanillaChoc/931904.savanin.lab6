@@ -1,0 +1,51 @@
+﻿@using Web2._6.Models
+@model IEnumerable<Web2._6.Models.Topic>
+
+@{
+    ViewData["Title"] = "Forum";
+}
+
+<h1>Forum @ViewBag.ForumName</h1>
+
+<p>First forum desription</p>
+
+<p>
+    <a asp-controller="Topics" asp-action="Create">Create new topic</a>
+</p>
+
+<table class="table table-striped">
+    <tbody>
+    @foreach (var item in Model) {
+    <tr>
+        <td>
+            <h5><a asp-controller = "Mockups" asp-action = "SingleTopic">
+                @item.Title
+            </a></h5>
+            @if (@ViewBag.TopicsReplies[item.Id][0] != null)
+            {
+                <p>
+                    @ViewBag.TopicsReplies[item.Id][0].AuthorName,
+                    @ViewBag.TopicsReplies[item.Id][0].CreatedDate.DayOfWeek,
+                    @ViewBag.TopicsReplies[item.Id][0].CreatedDate
+                </p>           
+            }
+        </td>
+
+        <td>@ViewBag.TopicsRepliesAmount[item.Id] replies</td>
+
+        <td>
+            @if (@ViewBag.TopicsReplies[item.Id][1] != null)
+            {
+                <p>
+                    @ViewBag.TopicsReplies[item.Id][1].AuthorName
+                </p>
+                <p>
+                    @ViewBag.TopicsReplies[item.Id][1].CreatedDate.DayOfWeek,
+                    @ViewBag.TopicsReplies[item.Id][1].CreatedDate
+                </p>           
+            }
+        </td>
+    </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web2._6
+build_property.RootNamespace = Web2._6
+build_property.ProjectDir = C:\Users\Максим\Desktop\Web2.6\Web2.6\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Максим\Desktop\Web2.6\Web2.6
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/ForumCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/ForumCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/ForumCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/ForumCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/ForumCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Mockups/AllForums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xBbGxGb3J1bXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Mockups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Mockups/SingleForum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xTaW5nbGVGb3J1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Mockups/SingleTopic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xTaW5nbGVUb3BpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Replies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Replies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Replies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Replies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Replies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Topics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Topics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Topics/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Topics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Topics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/UserFiles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckZpbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/UserFiles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckZpbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/UserFiles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckZpbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/UserFiles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckZpbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/UserFiles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckZpbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Максим/Desktop/Web2.6/Web2.6/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6k2rwsye77
